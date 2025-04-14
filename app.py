@@ -47,7 +47,7 @@ if file1 and file2:
 
     # Find and highlight similar lines
     with st.status("Finding similar lines...", expanded=True) as status:
-        similar_lines = find_similar_lines(raw1, raw2, threshold=0.7)
+        similar_lines = find_similar_lines(raw1, raw2, threshold=0.4)
         status.update(label="✅ Similar lines found and highlighted!", state="complete")
 
     # Display the similar lines with highlights
