@@ -1,0 +1,502 @@
+[
+    [
+        "A cat jumps over the garden.",
+        "A cat runs near the table.",
+        0.73
+    ],
+    [
+        "A bird sits on the chair.",
+        "The student sits on the chair.",
+        0.93
+    ],
+    [
+        "A cat sits on the roof.",
+        "A bird flies across the roof.",
+        0.7
+    ],
+    [
+        "A cat flies across the garden.",
+        "The teacher eats the chair.",
+        0.8
+    ],
+    [
+        "A cat sits on the table.",
+        "A bird flies across the park.",
+        0.77
+    ],
+    [
+        "A cat runs near the garden.",
+        "The teacher runs near the park.",
+        0.82
+    ],
+    [
+        "The dog sits on the park.",
+        "The dog jumps over the roof.",
+        0.89
+    ],
+    [
+        "The dog runs near the park.",
+        "The dog runs near the table.",
+        0.94
+    ],
+    [
+        "The student eats the roof.",
+        "A bird flies across the garden.",
+        0.54
+    ],
+    [
+        "The student sits on the chair.",
+        "The student flies across the chair.",
+        0.8
+    ],
+    [
+        "The teacher sits on the chair.",
+        "The student runs near the park.",
+        0.75
+    ],
+    [
+        "The student flies across the chair.",
+        "A bird eats the garden.",
+        0.76
+    ],
+    [
+        "The dog flies across the roof.",
+        "The dog flies across the park.",
+        0.82
+    ],
+    [
+        "A bird flies across the roof.",
+        "The dog runs near the chair.",
+        0.7
+    ],
+    [
+        "The teacher runs near the roof.",
+        "The teacher jumps over the park.",
+        0.89
+    ],
+    [
+        "The teacher flies across the park.",
+        "The student flies across the park.",
+        0.85
+    ],
+    [
+        "The student flies across the park.",
+        "A bird runs near the roof.",
+        0.76
+    ],
+    [
+        "A cat eats the chair.",
+        "The student sits on the chair.",
+        0.69
+    ],
+    [
+        "A bird sits on the chair.",
+        "The teacher jumps over the park.",
+        0.86
+    ],
+    [
+        "The dog eats the roof.",
+        "A cat flies across the park.",
+        0.55
+    ],
+    [
+        "The student eats the chair.",
+        "The student sits on the roof.",
+        0.82
+    ],
+    [
+        "The teacher eats the garden.",
+        "The teacher runs near the park.",
+        0.84
+    ],
+    [
+        "The teacher eats the roof.",
+        "The student flies across the roof.",
+        0.77
+    ],
+    [
+        "A cat flies across the garden.",
+        "A bird runs near the roof.",
+        0.77
+    ],
+    [
+        "The dog flies across the chair.",
+        "The dog runs near the park.",
+        0.85
+    ],
+    [
+        "A cat runs near the garden.",
+        "The teacher jumps over the park.",
+        0.69
+    ],
+    [
+        "The dog runs near the table.",
+        "A bird flies across the roof.",
+        0.8
+    ],
+    [
+        "The dog sits on the park.",
+        "The dog eats the roof.",
+        0.71
+    ],
+    [
+        "The dog flies across the chair.",
+        "The teacher eats the chair.",
+        0.8
+    ],
+    [
+        "The student flies across the roof.",
+        "A cat eats the table.",
+        0.92
+    ],
+    [
+        "The student sits on the table.",
+        "The student flies across the garden.",
+        0.76
+    ],
+    [
+        "The dog jumps over the garden.",
+        "A cat sits on the park.",
+        0.74
+    ],
+    [
+        "The student jumps over the park.",
+        "The dog runs near the garden.",
+        0.79
+    ],
+    [
+        "The student jumps over the chair.",
+        "The student runs near the roof.",
+        0.74
+    ],
+    [
+        "The student flies across the park.",
+        "The dog runs near the table.",
+        0.85
+    ],
+    [
+        "The student flies across the table.",
+        "The teacher eats the park.",
+        0.89
+    ],
+    [
+        "A cat flies across the park.",
+        "A cat flies across the park.",
+        0.82
+    ],
+    [
+        "The teacher eats the chair.",
+        "The dog eats the chair.",
+        0.8
+    ],
+    [
+        "The student sits on the chair.",
+        "A cat eats the roof.",
+        0.51
+    ],
+    [
+        "The dog eats the roof.",
+        "The teacher eats the table.",
+        0.81
+    ],
+    [
+        "The dog sits on the table.",
+        "The student eats the roof.",
+        0.83
+    ],
+    [
+        "The teacher sits on the roof.",
+        "A cat flies across the roof.",
+        0.78
+    ],
+    [
+        "A cat sits on the park.",
+        "The teacher jumps over the roof.",
+        0.59
+    ],
+    [
+        "A cat runs near the table.",
+        "The dog flies across the chair.",
+        0.73
+    ],
+    [
+        "A bird flies across the chair.",
+        "The teacher eats the garden.",
+        0.94
+    ],
+    [
+        "The student eats the chair.",
+        "The student eats the table.",
+        0.91
+    ],
+    [
+        "A bird runs near the chair.",
+        "The dog flies across the chair.",
+        0.62
+    ],
+    [
+        "A cat sits on the garden.",
+        "A bird flies across the table.",
+        0.86
+    ],
+    [
+        "The teacher sits on the roof.",
+        "A bird flies across the table.",
+        0.85
+    ],
+    [
+        "The student jumps over the roof.",
+        "The teacher flies across the park.",
+        0.8
+    ],
+    [
+        "A cat sits on the park.",
+        "The student jumps over the park.",
+        0.67
+    ],
+    [
+        "The teacher jumps over the table.",
+        "The dog jumps over the garden.",
+        0.79
+    ],
+    [
+        "A bird sits on the chair.",
+        "The student runs near the park.",
+        0.84
+    ],
+    [
+        "A cat flies across the park.",
+        "The dog jumps over the roof.",
+        0.9
+    ],
+    [
+        "The student flies across the chair.",
+        "The dog jumps over the chair.",
+        0.74
+    ],
+    [
+        "The teacher eats the park.",
+        "A cat flies across the park.",
+        0.97
+    ],
+    [
+        "A cat runs near the garden.",
+        "The dog jumps over the garden.",
+        0.54
+    ],
+    [
+        "A cat sits on the park.",
+        "A cat eats the chair.",
+        0.71
+    ],
+    [
+        "The student flies across the table.",
+        "A cat eats the garden.",
+        0.52
+    ],
+    [
+        "A bird sits on the table.",
+        "The teacher runs near the garden.",
+        0.51
+    ],
+    [
+        "The dog flies across the table.",
+        "A cat runs near the park.",
+        0.77
+    ],
+    [
+        "The student jumps over the roof.",
+        "A cat sits on the chair.",
+        0.98
+    ],
+    [
+        "A bird eats the chair.",
+        "The student runs near the roof.",
+        0.84
+    ],
+    [
+        "The student runs near the table.",
+        "A cat runs near the chair.",
+        0.65
+    ],
+    [
+        "The teacher eats the chair.",
+        "The dog eats the garden.",
+        0.79
+    ],
+    [
+        "A bird eats the table.",
+        "A bird sits on the chair.",
+        0.74
+    ],
+    [
+        "A cat runs near the park.",
+        "The student eats the chair.",
+        0.58
+    ],
+    [
+        "The student flies across the table.",
+        "A cat sits on the garden.",
+        0.73
+    ],
+    [
+        "The student jumps over the garden.",
+        "A cat eats the garden.",
+        1.0
+    ],
+    [
+        "The teacher runs near the park.",
+        "A cat sits on the park.",
+        0.72
+    ],
+    [
+        "The dog sits on the garden.",
+        "A cat runs near the chair.",
+        0.92
+    ],
+    [
+        "The student runs near the table.",
+        "A cat runs near the table.",
+        0.89
+    ],
+    [
+        "The dog sits on the chair.",
+        "The teacher runs near the park.",
+        0.78
+    ],
+    [
+        "A cat jumps over the table.",
+        "A bird runs near the park.",
+        0.89
+    ],
+    [
+        "The teacher flies across the park.",
+        "The dog runs near the roof.",
+        0.78
+    ],
+    [
+        "A cat eats the chair.",
+        "A cat sits on the roof.",
+        0.86
+    ],
+    [
+        "The dog runs near the roof.",
+        "The student runs near the garden.",
+        0.88
+    ],
+    [
+        "The dog jumps over the garden.",
+        "A bird eats the garden.",
+        0.56
+    ],
+    [
+        "The dog jumps over the chair.",
+        "The dog flies across the table.",
+        0.8
+    ],
+    [
+        "The teacher jumps over the roof.",
+        "The teacher runs near the roof.",
+        0.84
+    ],
+    [
+        "A bird jumps over the table.",
+        "The dog runs near the garden.",
+        0.61
+    ],
+    [
+        "A cat sits on the chair.",
+        "The teacher flies across the chair.",
+        0.98
+    ],
+    [
+        "The student sits on the garden.",
+        "The student eats the garden.",
+        0.81
+    ],
+    [
+        "The student eats the park.",
+        "The student flies across the table.",
+        0.77
+    ],
+    [
+        "A bird flies across the table.",
+        "The teacher sits on the garden.",
+        0.62
+    ],
+    [
+        "A cat runs near the roof.",
+        "The teacher jumps over the garden.",
+        0.93
+    ],
+    [
+        "A bird runs near the chair.",
+        "The teacher sits on the chair.",
+        0.66
+    ],
+    [
+        "The teacher flies across the table.",
+        "The student eats the table.",
+        0.88
+    ],
+    [
+        "The student eats the park.",
+        "A bird sits on the table.",
+        0.63
+    ],
+    [
+        "A bird sits on the garden.",
+        "The dog eats the garden.",
+        0.9
+    ],
+    [
+        "A cat runs near the garden.",
+        "The dog sits on the garden.",
+        0.84
+    ],
+    [
+        "The student eats the table.",
+        "A cat runs near the garden.",
+        0.52
+    ],
+    [
+        "The student eats the roof.",
+        "The student eats the chair.",
+        0.82
+    ],
+    [
+        "The teacher flies across the table.",
+        "The dog flies across the roof.",
+        0.82
+    ],
+    [
+        "A bird runs near the chair.",
+        "The teacher jumps over the roof.",
+        0.84
+    ],
+    [
+        "The teacher eats the garden.",
+        "A bird sits on the roof.",
+        0.8
+    ],
+    [
+        "The student flies across the table.",
+        "A cat runs near the garden.",
+        0.75
+    ],
+    [
+        "The dog flies across the park.",
+        "A bird flies across the garden.",
+        0.77
+    ],
+    [
+        "The dog jumps over the garden.",
+        "The dog sits on the roof.",
+        0.85
+    ],
+    [
+        "The student sits on the chair.",
+        "The teacher eats the park.",
+        0.8
+    ]
+]
